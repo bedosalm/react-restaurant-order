@@ -1,0 +1,28 @@
+nav button:focus{
+outline: none;
+color: red;
+}
+label{
+    width: 80px;
+    font-size: 13px;
+}
+select{
+    width: 200px !important;
+    padding: 0 4px !important;
+}
+input{
+    width: 200px !important;
+    padding: 0 4px !important;
+}
+.right{
+    float:right  
+}
+.form-check-input {
+    margin-left: -0.15rem !important
+}
+.submit{
+    padding: 5px 45px;
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+}
